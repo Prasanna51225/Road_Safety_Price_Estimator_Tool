@@ -50,6 +50,10 @@ An intelligent web application that automates material cost estimation for road 
 *Modern user interface with drag-and-drop upload, real-time progress tracking, and animated visual effects*
 
 ---
+### Given Input File
+<img width="1338" height="663" alt="image" src="https://github.com/user-attachments/assets/8ec31d6a-cf83-4f93-9561-b2a51dcc41a5" />
+*The report given as input to the system*
+
 
 ### Generated PDF Report
 
